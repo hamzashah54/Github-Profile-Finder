@@ -48,18 +48,4 @@ The project is structured into the following folders and files:
 1. **Unit testing**: Run `npm run test` to run the unit tests.
 2. **Integration testing**: Run `npm run test: integration` to run the integration tests.
 
-**📸 Screenshots**
-
-* [Search form](screenshots/search-form.png)
-* [User profile](screenshots/user-profile.png)
-
-**📦 API Reference** (Not applicable)
-
-**👤 Author**
-[Your Name](https://github.com/your-github-username)
-
-
-
-
 I hope this README.md file meets your requirements! Let me know if you need any further modifications. 😊
-
