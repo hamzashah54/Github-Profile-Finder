@@ -1,7 +1,5 @@
-Here is a well-structured, polished README.md file for your Node.js project:
-
-**🚀 Project Title & Tagline**
-**GitHub User Search** 🚀
+**🚀 GitHub User Search**
+=====================
 "Search for GitHub users by username and display their profile information."
 
 **📖 Description**
@@ -60,7 +58,8 @@ The project is structured into the following folders and files:
 **👤 Author**
 [Your Name](https://github.com/your-github-username)
 
-**📝 License**
-MIT License
+
+
 
 I hope this README.md file meets your requirements! Let me know if you need any further modifications. 😊
+
